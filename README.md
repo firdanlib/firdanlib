@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**firdanlib/firdanlib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a **Web Developer, Mobile Developer, and Software Engineer** passionate about building scalable and efficient applications. I specialize in **Laravel, Livewire, Filament, and modern web technologies**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** Laravel, Livewire, Filament, Vue.js, Bootstrap, Tailwind CSS
+- **Databases:** MySQL, PostgreSQL
+- **Tools & Platforms:** Git, Docker, Linux, Windows, Vs Code
+- **Other Skills:** API Development, System Design, Performance Optimization, Fullstack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **📌 [Electronic Medical Record System](#)** - A web-based medical record system built with Laravel 11, Livewire 3, and Filament 3.
+- **📌 [Business Travel Order System](#)** - A web-based travel order management system using the Waterfall model.
+
+## 📫 Let's Connect!
+- **GitHub:** [firdanlib](https://github.com/firdanlib)
+- **Email:** firdan.work@outlook.com
